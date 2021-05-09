@@ -1,0 +1,5 @@
+#Ignore the following folders and config file
+Lib/
+Scripts/
+pyvenv.cfg
+
